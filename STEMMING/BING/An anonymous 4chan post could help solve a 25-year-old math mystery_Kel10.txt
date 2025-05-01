@@ -1,0 +1,41 @@
+Judul: An anonymous 4chan post could help solve a 25-year-old math mystery
+Tanggal terbit:  October 25, 2018
+Penulis: Mary Beth Griggs
+Link: https://www.theverge.com/2018/10/24/18019464/4chan-anon-anime-haruhi-math-mystery
+Isi:
+
+A 4chan poster may have solved part of a very tricky math problem that mathematicians have been working on for at least 25 years. The user was just trying to figure out the most efficient way to watch episodes of a nonlinear anime series, but the result has generated considerable interest from mathematicians around the world who have no way to identify the anonymous user.
+
+Yesterday, Robin Houston, a computer scientist and mathematician tweeted about the bizarre intersection of 4chan and mathematics, inadvertently setting off a wave of public interest in the story. Within hours of his tweet, his phone was vibrating constantly. “It started to go mad,” he says. “My phone started going crazy.”
+
+The 4chan part of this saga began on September 17th, 2011, when a poster posed a question: if you wanted to watch 14 episodes of the anime The Melancholy of Haruhi Suzumiya in every possible order, what’s the shortest string of episodes you’d need to watch?
+
+if you wanted to watch 14 episodes of ‘Haruhi’ in every possible order, what’s the shortest string of episodes you’d need to watch?
+
+There are 14 episodes in the first season of Haruhi, a 2006 anime based on a series of Japanese light novels. The episodes, which feature time travel and are otherwise chronologically challenging for the viewer, originally aired in a nonlinear order. When the series went to DVD, the episodes were rearranged, and it’s become something of an obsession for fans to rewatch the series over and over again, going through as many chronologies as possible.
+
+An anonymous poster figured out one possible way to solve to the 4chan problem, satisfying the more mathematically inclined Haruhi fans. But in the process, they also helped puzzle out an issue that mathematicians have been working on since 1993. The anonymously authored proof (which was recently reposted on a Fandom wiki) is currently the most elegant solution to part of a mathematical problem involving something called superpermutations. It’s an enigma that goes well beyond anime.
+
+In mathematics, a permutation is the order of a set of numbers. In anime terms, one permutation of Haruhi would be watching all 14 episodes in the order that they aired. But what if you’re a Haruhi superfan and watching the season once isn’t enough for you? In that case, you might be interested in a superpermutation, or all of the possible permutations of a set strung together. Think of it as the ultimate Haruhi marathon.
+
+Think of it as the ultimate ‘Haruhi’ marathon
+
+The branch of math that deals with permutations and superpermutations is called combinatorics. It doesn’t require years of study to be good at it, either. “It’s more accessible to amateur and casual mathematicians,” Houston says.
+
+The poster’s anonymity doesn’t invalidate the solution for the mathematicians. “What’s beautiful about mathematics is that it’s a proof that starts with your hypothesis and leads to your conclusion,” Jay Pantone, a mathematician at Marquette University says. “You have to convince a skeptical reader that you’re correct. That doesn’t rely on your identity being known.”
+
+Pantone was that skeptical reader for the 4chan proof. This week, he translated it from the more informal 4chan posting into a more formal layout that mathematicians like himself could more easily understand. He says the proof holds up.
+
+With the Haruhi problem, people were looking for the shortest possible superpermutation for the 14-episode set. But no one has found a formula that would actually solve that problem. The 1993 paper suggested one part of that solution. But in 2014, Houston figured out that the math used in the 1993 problem didn’t work for sets containing more than six numbers. The result got mathematicians really excited about the problem again after it had languished in the literature for a quarter century. Eventually, one of them found the 4chan proof, and all those numbers and symbols started to fall into place.
+
+The 4chan proof outlines how to find the smallest possible number of episodes for the solution. But that doesn’t fully solve the problem. An even bigger breakthrough came earlier this month when sci-fi author and mathematician Greg Egan wrote up a proof that outlined how to find the largest possible number for any given superpermutation problem.
+
+Pantone crunched the numbers of the Haruhi problem for The Verge and found that you’d need to watch at least 93,884,313,611 episodes to watch the season in any possible order. At most, you’d need to watch 93,924,230,411 episodes to accomplish the task. There’s still a ways to go to narrow down the exact answer, but they’re getting there.
+
+Now, mathematicians have a way to figure out the range of answers, and a group of them — including Houston and Pantone — are actively working to figure out a formula that combines Egan’s work and the anonymous proof into a cohesive formula. “It might be possible to crack the thing completely open,” Houston says.
+
+Beyond answering obscure anime questions, there are no known applications for the formula
+
+Beyond answering obscure anime questions, there are no known applications for the formula, which isn’t unusual in the field. It often takes decades, Pantone says, for formulas that are discovered in pure mathematics to make their way into real-world applications. But the 4chan episode does show that math can be accessible to anyone.
+
+“This proof shows that you don’t need to be a professional mathematician to understand mathematics and advance the frontier of knowledge,” Pantone says. “That’s the beautiful thing about math, is that anyone can understand the questions.”

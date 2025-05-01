@@ -1,0 +1,54 @@
+JUDUL:
+Robot Ikut Lomba Lari
+
+WAKTU TERBIT:
+21 April 2025 07:56 WIB
+
+PENULIS:
+Redaksi
+
+SUMBER:
+https://www.kompas.id/artikel/robot-ikut-lomba-lari
+
+ISI BERITA:
+Lomba lari setengah maraton di Beijing yang diikuti robot-robot menunjukkan kegigihan
+China untuk unggul di bidang teknologi.
+
+Ajang lari setengah maraton (half-marathon) Yuzhuang di Beijing, China, Sabtu (19/4/2025),
+sangat berbeda dengan ajang lari lainnya. Tak hanya 12.000 manusia yang menjadi pesertanya,
+tetapi juga 21 robot. Ukuran robot peserta half-marathon bervariasi. Ada yang tingginya kurang
+dari 1,2 meter. Ada pula yang memiliki tinggi lebih dari 1,8 meter. Sesuai dengan yang
+disyaratkan, robot-robot itu menggunakan tungkai untuk berlari. Panitia pun memisahkan jalur
+lari manusia dengan jalur robot.
+
+Peserta kategori robot adalah perusahaan-perusahaan teknologi, terutama di bidang robotik,
+asal China. Mereka mengikuti lomba tak ubahnya untuk menguji produk robot. Dilaporkan
+sejumlah media, seperti CNN dan Wired, tak sedikit robot peserta gagal finis. Ada yang
+berputar-putar tidak karuan, lalu akhirnya roboh. Ada pula robot yang bahkan terjatuh saat
+masih di garis start.
+
+Dalam lomba, robot didampingi sejumlah manusia yang bertugas mengendalikan robot atau
+kadang-kadang memeganginya. Baterai boleh diganti selama lomba. Jika sampai robot peserta
+diganti dengan yang baru, ada penalti berupa tambahan waktu tempuh selama 10 menit. Untuk
+kategori robot, pemenangnya ialah Tiangong Ultra dari Beijing Innovation Center of Human
+Robotics. Guna menyelesaikan jarak 21 kilometer, Tiangong Ultra memerlukan waktu 2 jam
+40 menit, lebih kurang sedikit lebih lama ketimbang kebanyakan manusia (bukan atlet). Di
+kategori manusia pria, catatan waktu pemenang Yuzhuang Half-Marathon ialah 1 jam 2 menit.
+
+Keikutsertaan robot dalam lomba lari menyuguhkan tantangan tak ringan. Selama ini, problem
+pengembangan robot humanoid (menyerupai manusia) adalah memastikannya mampu
+bergerak dalam waktu lama tanpa mengalami kerusakan hardware. Bagi manusia, urusan
+berlari selama berjam-jam rasanya biasa, tetapi bagi robot, hal itu sulit dilakoni. Komponen
+robot bisa rusak akibat gerakan berulang-ulang. Belum lagi isu kestabilan dan kemampuan
+menjaga arah gerakan. Dengan mengikuti lomba lari, perusahaan teknologi harus mampu
+mengatasi isu-isu itu.
+
+China sejak lama gigih membangun kemampuan teknologinya. Pendidikan berkualitas di
+bidang sains, matematika, dan rekayasa menjadi fondasi. Posisinya sebagai negara manufaktur
+terbesar di dunia sekarang dilengkapi dengan kemampuan teknologinya yang mampu
+menyaingi Amerika Serikat. Sampai-sampai China dipandang oleh AS sebagai ”ancaman” dan
+Washington membatasi penjualan cip canggih ke negara itu.
+
+Penampilan robot humanoid dalam ajang half-marathon barulah permulaan. Robotik kini kian
+maju dan terintegrasi dengan teknologi kecerdasan buatan yang juga semakin canggih. Siap
+atau tidak, era robot nan cerdas sudah tidak lama lagi.
